@@ -1,0 +1,29 @@
+superuser: admin/admin
+port: 5432
+
+pip install psycopg2
+result:
+C:\WINDOWS\system32>pip install psycopg2
+Requirement already satisfied: psycopg2 in c:\python39\lib\site-packages (2.8.6)...
+
+WAY OF FIVE STEPS
+
+connection= go to drawer
+cursor= open
+execute= execute
+commit= be sure
+close= close
+
+FOCUSING ON, AND?
+
+local/ default data
+
+
+FUNCTIONS USAGE
+===============================================
+createtable() at the end to create it.
+
+insert/ create
+read/ view
+update
+delete: [(5, 'puggi', 100.0), (4, 'pugghero', 100.0)]
